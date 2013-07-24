@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Awesome Announcements
 Plugin URI: http://h2cweb.net/wp-awesome-announcements-plugin
-Description: Best WordPress Announcement Plugin
+Description: Best WordPress Announcements Plugin integrated with Custom Post Type. WP Awesome Announcements based on latest JQuery UI.
 Version: 1.0
 Author: Liton arefin
 Author URI: http://h2cweb.net

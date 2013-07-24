@@ -21,7 +21,7 @@ No need extra configurations for WP Awesome Announcements. WP Awesome Announceme
 A product by H2CWEB.NET [WordPress Team](http://h2cweb.net).
 
 = Problems and Support =
-To get faster response You can drop a mail in our website [Contact Page](http://h2cweb.net/contact-us/). If you have any query about WP Awesome Announcements then please check our [F.A.Q](Will include after the plugin approved). 
+To get faster response You can drop a mail in our website [Contact Page](http://h2cweb.net/contact-us/). If you have any query about WP Awesome Announcements then please check our [F.A.Q](http://wordpress.org/plugins/wp-awesome-announcements/faq/). 
 
 = Comments, Feedback and Request Features =
 Please give your valueable suggestions, comments, and feedbacks about this plugin or, any ideas about WordPress Plugin just drop a [message to us](http://h2cweb.net/contact-us). We are waiting for hearing from you!!!
@@ -50,8 +50,9 @@ No, there is no need any shortcodes. It will automatically configure.
 
 == Screenshots ==
 
-1. Announcements Posts lists
-2. Add New Announcements section- look and feel.
+1. Announcements Posts Type Backend
+2. Schedule Announcement Start Date to End Date.
+3. Announcements Output look and feel.
 
 == Changelog ==
 
