@@ -1,10 +1,10 @@
 === WP Awesome Announcements ===
-Contributors: H2CWEB Team
+Contributors: litonice13, jwthemeltd
 Donate link: http://liton-online.com/donate
 Tags: WordPress, WordPress Announcements, News Announcements, WordPress Plugin, Scroll Announcements
-Requires at least: 3.0
-Tested up to: 3.5.2
-Stable tag: 1.0
+Requires at least: 3.8
+Tested up to: 4.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,13 +18,13 @@ No need extra configurations for WP Awesome Announcements. WP Awesome Announceme
 * No Post Description Limits.
 
 = About the Author =
-A product by H2CWEB.NET [WordPress Team](http://h2cweb.net).
+A product by Jewel Theme [WordPress Team](http://jeweltheme.com).
 
 = Problems and Support =
-To get faster response You can drop a mail in our website [Contact Page](http://h2cweb.net/contact-us/). If you have any query about WP Awesome Announcements then please check our [F.A.Q](http://wordpress.org/plugins/wp-awesome-announcements/faq/). 
+To get faster response You can create a Topics our Website  [Support Forum] [Contact Page]( http://jeweltheme.com/support/forum/wp-awesome-announcements). If you have any query about WP Awesome Announcements then please check our [F.A.Q](http://wordpress.org/plugins/wp-awesome-announcements/faq/). 
 
 = Comments, Feedback and Request Features =
-Please give your valueable suggestions, comments, and feedbacks about this plugin or, any ideas about WordPress Plugin just drop a [message to us](http://h2cweb.net/contact-us). We are waiting for hearing from you!!!
+Please give your valueable suggestions, comments, and feedbacks about this plugin or, any ideas about WordPress Plugin You can create a Topics our Website  [Support Forum]( http://jeweltheme.com/support/forum/wp-awesome-announcements). We are waiting for hearing from you!!!
 
 
 This plugin is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
@@ -55,8 +55,11 @@ No, there is no need any shortcodes. It will automatically configure.
 3. Announcements Output look and feel.
 
 == Changelog ==
+= 1.0.1 =
+* Version Upgrade
+* Fixed override CSS issue
 
-= 1.00 =
+= 1.0.0 =
 * Initial Release
 
 == Upgrade notice ==
