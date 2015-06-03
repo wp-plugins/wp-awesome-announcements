@@ -3,7 +3,7 @@
 Plugin Name: WP Awesome Announcements
 Plugin URI:  http://jeweltheme.com/product/wp-awesome-ann…cements-plugin
 Description: Best WordPress Announcements Plugin integrated with Custom Post Type. WP Awesome Announcements based on latest JQuery UI.
-Version: 1.0.1
+Version: 1.2.0
 Author: Liton arefin
 Author URI: http://www.jeweltheme.com
 License: GPL2
